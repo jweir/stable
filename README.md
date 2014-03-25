@@ -1,6 +1,6 @@
 [![Build Status](https://secure.travis-ci.org/jweir/stable.png)](http://travis-ci.org/jweir/stable)
 
-## Select, Merge, Diff and Join `[][]string` types
+### Select, Merge, Diff and Join [][]string types
 
 Package stable is a set of methods and functions for working with `[][]string`.
 
