@@ -77,11 +77,6 @@ func (f Table) headers() []string {
 	}
 }
 
-func (f Table) write(row []string) error {
-	f = append(f, row)
-	return nil
-}
-
 // return a set of indexes to keep
 func (f *Table) setHeaders(columns []string) []int {
 	var indices []int
